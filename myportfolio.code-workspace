@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../JS_CSS_PortfolioProject-master/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "myportfolio"
+	}
+}
