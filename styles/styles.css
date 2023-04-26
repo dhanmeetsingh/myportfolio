@@ -616,6 +616,7 @@
   .contact-content-con .right-contact .submit-btn {
     display: flex;
     justify-content: flex-start;
+    background-color: #000;
   }
   
   /*Independed components*/
@@ -634,6 +635,7 @@
     align-self: flex-start;
     align-items: center;
     overflow: hidden;
+    background-color: #000;
   }
   .main-btn .btn-text {
     padding: 0 2rem;
